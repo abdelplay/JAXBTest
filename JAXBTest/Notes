@@ -1,0 +1,3 @@
+schema xsd ==> Class java  : cmd  C:\Documents and Settings\jmd\workspace\TestJAXB>xjc -d src -extension biblio2.xsd
+Class java ==> schema xsd  : cmd  C:\Documents and Settings\jmd\workspace\TestJAXB>schemagen -cp ./bin com.abc.test.jaxb.Bibliotheque
+http://www.jmdoudoux.fr/java/dej/chap-jaxb.htm

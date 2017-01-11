@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliotheque xmlns="http://www.abc.com/test/jaxb">
+    <livre>
+        <titre>titre 1</titre>
+        <auteur>
+            <nom>nom 1</nom>
+            <prenom>prenom 1</prenom>
+        </auteur>
+        <editeur>editeur 1</editeur>
+    </livre>
+</bibliotheque>

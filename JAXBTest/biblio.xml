@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<tns:bibliotheque  xmlns:tns="http://www.abc.com/test/jaxb"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tns:livre>
+     <tns:titre>titre 1</tns:titre>
+     <tns:auteur>
+       <tns:nom>nom 1</tns:nom>
+       <tns:prenom>prenom 1</tns:prenom>
+     </tns:auteur>
+     <tns:editeur>editeur 1</tns:editeur>
+   </tns:livre>
+   <tns:livre>
+     <tns:titre>titre 2</tns:titre>
+     <tns:auteur>
+       <tns:nom>nom 2</tns:nom>
+       <tns:prenom>prenom 2</tns:prenom>
+     </tns:auteur>
+     <tns:editeur>editeur 2</tns:editeur>
+   </tns:livre>
+   <tns:livre>
+     <tns:titre>titre 3</tns:titre>
+     <tns:auteur>
+       <tns:nom>nom 3</tns:nom>
+       <tns:prenom>prenom 3</tns:prenom>
+     </tns:auteur>
+     <tns:editeur>editeur 3</tns:editeur>
+   </tns:livre>
+</tns:bibliotheque>
